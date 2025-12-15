@@ -13,7 +13,7 @@
 #include <PubSubClient.h>
 #include <TinyGsmClient.h>
 #include <ArduinoHttpClient.h>
-#include "data_collection.h"
+#include "Data_collection.h"
 
 //Sim7000 Parameter
 #define MODEM_RX_PIN 15
